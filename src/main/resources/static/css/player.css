@@ -33,9 +33,7 @@ h1 {
   line-height: 1.6;
 }
 
-h2 {
-  font-size: var(--root-font-size);
-}
+
 
 ul {
   margin: 0;
@@ -302,9 +300,7 @@ button:focus,
     font-size: 0.813rem;
   }
 
-  h2 {
-    font-size: 0.75rem;
-  }
+
 
   .player-bar,
   .playlist-bar,
