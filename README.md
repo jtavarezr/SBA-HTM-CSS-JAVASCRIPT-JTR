@@ -58,4 +58,4 @@ Jonathan Tavarez
 jonathan.tavarez@gmail.com
 ------------
 Link to the project repository, e.g.,
-GitHub: https://github.com/jtavarezr/SBA-HTML-CSS-JAVASCRIPT-
+GitHub: https://github.com/jtavarezr/SBA-HTM-CSS-JAVASCRIPT-JTR
